@@ -77,7 +77,7 @@ This application demonstrates a basic room-booking functionality:
 
 1. **Start the Server**:
    ```bash
-   npm run dev
+   npm start
    ```
    or
    ```bash
